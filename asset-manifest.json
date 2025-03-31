@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Gemini-Clone/static/css/main.a4586751.css",
+    "main.js": "/Gemini-Clone/static/js/main.5ef8eaf8.js",
+    "static/js/453.a95e9900.chunk.js": "/Gemini-Clone/static/js/453.a95e9900.chunk.js",
+    "static/media/pic.jpg": "/Gemini-Clone/static/media/pic.8fb1d9b223b75755355d.jpg",
+    "static/media/logo.png": "/Gemini-Clone/static/media/logo.4ad6d0a41737684f4783.png",
+    "static/media/share.svg": "/Gemini-Clone/static/media/share.ebb5494999c36730959b297f9ae574d9.svg",
+    "static/media/settings.svg": "/Gemini-Clone/static/media/settings.94051a7fdc97cefc6ecf908d3fc5806b.svg",
+    "index.html": "/Gemini-Clone/index.html",
+    "static/media/help.svg": "/Gemini-Clone/static/media/help.31df180e0e682eb2f0003f832609f361.svg",
+    "static/media/compass.svg": "/Gemini-Clone/static/media/compass.a2f236af1820262f292b6766b73a3efe.svg",
+    "static/media/clear.svg": "/Gemini-Clone/static/media/clear.e6e8fe2088b5835806099d2ff19b99b7.svg",
+    "static/media/profile.svg": "/Gemini-Clone/static/media/profile.0628b8aac1c55b46faf3c4c30dc3c3a2.svg",
+    "static/media/fav.svg": "/Gemini-Clone/static/media/fav.6828dd758db033f1a6042671b1fc0523.svg",
+    "static/media/mic.svg": "/Gemini-Clone/static/media/mic.183b2b555c6b0ceb36e8600722c5a382.svg",
+    "static/media/history.svg": "/Gemini-Clone/static/media/history.d102275ae787e2439eb8887d97b2fb65.svg",
+    "static/media/bulb.svg": "/Gemini-Clone/static/media/bulb.80120bf3dccb55cd26996e939e50a28b.svg",
+    "static/media/voice.svg": "/Gemini-Clone/static/media/voice.f97cc0d361964fb1ad1149374aa2b7c8.svg",
+    "static/media/copy.svg": "/Gemini-Clone/static/media/copy.43914f92534eaed536a75fbadd62b380.svg",
+    "static/media/gallary.svg": "/Gemini-Clone/static/media/gallary.1e7a31cb2744793d1ba7f3564a04bcce.svg",
+    "static/media/chat.svg": "/Gemini-Clone/static/media/chat.2f719e3b267317062d3dd5fd3225a8d4.svg",
+    "static/media/code.svg": "/Gemini-Clone/static/media/code.4fc97a97259322300ed078b99b550d0d.svg",
+    "static/media/send.svg": "/Gemini-Clone/static/media/send.e1150907376e53bf5a61e39c99f3bbd7.svg",
+    "static/media/menu.svg": "/Gemini-Clone/static/media/menu.c1017fc571b9d0b37f7a09362d13d09c.svg",
+    "static/media/plus.svg": "/Gemini-Clone/static/media/plus.29ecd500656399998d9f8ab69d564c09.svg",
+    "main.a4586751.css.map": "/Gemini-Clone/static/css/main.a4586751.css.map",
+    "main.5ef8eaf8.js.map": "/Gemini-Clone/static/js/main.5ef8eaf8.js.map",
+    "453.a95e9900.chunk.js.map": "/Gemini-Clone/static/js/453.a95e9900.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4586751.css",
+    "static/js/main.5ef8eaf8.js"
+  ]
+}
