@@ -1,0 +1,119 @@
+.chat-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 100%;
+    padding: 0px 0px 0px 0px;
+}
+
+.pic {
+    border-radius: 50px;
+}
+
+.chat-box img {
+    width: 20px;
+}
+
+.hover {
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &:hover {
+        background-color: #fff5f5;
+    }
+}
+
+.user-chat {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    margin: 10px;
+    background-color: #dbd5d5;
+    padding: 10px 37px 15px 15px;
+    border-radius: 20px;
+    max-width: 70%;
+    position: relative;
+}
+
+.user-chat1 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 10px;
+    width: 100%;
+}
+
+.pic {
+    position: absolute;
+    top: 13px;
+    right: 10px;
+}
+
+.top1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 10px;
+}
+
+
+.gemini-chat {
+    padding: 10px 30px 15px 15px;
+    border-radius: 20px;
+    max-width: 70%;
+}
+
+.gemini-chat1 {
+    width: 100%;
+    background-color: white;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.bottom1 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 10px;
+    margin: 5px 5px 0px 5px;
+}
+
+.gemini1 {
+    display: flex;
+    width: 100%;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.loader {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.loader hr {
+    border-radius: 20px;
+    border: none;
+    background-color: #f6f7f8;
+    background: linear-gradient(to right, #a9cbe6, #ffffff, #9ed7ff);
+    background-size: 800px 50px;
+    height: 20px;
+    animation: loader 3s infinite linear;
+}
+
+@keyframes loader {
+    0% {
+        background-position: -800% 0px;
+    }
+    100% {
+        background-position: 800px 0px;
+    }
+}
